@@ -1,0 +1,14 @@
+.contact-container-main{
+    height: 100vh;
+}
+
+.contact-container{
+    padding: 2em;
+    position: relative;
+    top: 10%;
+}
+.form-control{
+    border: none;
+    border-bottom: 2px solid grey;
+    border-radius: none;
+}
